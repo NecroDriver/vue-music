@@ -32,7 +32,7 @@ export default {
       height: 32px;
       margin-right: 9px;
       .bg-image('../../components/m-header/logo');
-      background-size: 30px 20px;
+      background-size: 30px 32px;
     }
     .text {
       display: inline-block;
